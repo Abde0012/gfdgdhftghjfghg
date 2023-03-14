@@ -1,0 +1,13 @@
+{
+	"version": "v1.0",
+	"bot_name": "Up Time Bot",
+	"bot_id": "1059781408043827240",
+	"theme": {
+		"color": "#Ff005a"
+	},
+	"links": {
+		"support_server": "https://discord.gg/te6dVzfSPw",
+		"bot_invite": "https://discord.com/api/oauth2/authorize?client_id=1059781408043827240&permissions=2147502080&scope=bot%20applications.commands",
+		"vote_url": "https://top.gg/bot/1059781408043827240"
+	}
+}
